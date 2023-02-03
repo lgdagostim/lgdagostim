@@ -1,16 +1,353 @@
-### Hi there 👋
+## Hi 👋, I'm Luis Guilherme
 
-<!--
-**lgdagostim/lgdagostim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building softwares for more than 10 years
+- Focused on web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Techs 🛠️
+
+<p align="left">
+  <img
+    src="./assets/visual-studio-code.svg"
+    alt="visual-studio-code"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/raspberry-pi.svg"
+    alt="raspberry-pi"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/bash.svg"
+    alt="bash"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/git.svg"
+    alt="git"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/figma.svg"
+    alt="figma"
+    heigth="30"
+    width="24"
+  />
+  <img
+    src="./assets/photoshop.svg"
+    alt="photoshop"
+    heigth="35"
+    width="35"
+  />
+  <img
+    src="./assets/insomnia.svg"
+    alt="insomnia"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/atlassian.svg"
+    alt="atlassian"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/github.svg"
+    alt="github"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/gitlab.svg"
+    alt="gitlab"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/docker.svg"
+    alt="docker"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/kubernetes.svg"
+    alt="kubernetes"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/aws.svg"
+    alt="aws"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/microsoft-azure.svg"
+    alt="microsoft-azure"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/google-cloud.svg"
+    alt="google-cloud"
+    heigth="30"
+    width="30"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="./assets/javascript.svg"
+    alt="javascript"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/typescript.svg"
+    alt="typescript"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/nodejs.svg"
+    alt="nodejs"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/deno.svg"
+    alt="deno"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/serverless.svg"
+    alt="serverless"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/electron.svg"
+    alt="electron"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/vitejs.svg"
+    alt="vitejs"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/nestjs.svg"
+    alt="nestjs"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/adonis.svg"
+    alt="adonis"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/fastify.svg"
+    alt="fastify"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/feathersjs.svg"
+    alt="feathersjs"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/vue.svg"
+    alt="vue"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/nuxt.svg"
+    alt="nuxt"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/astro.svg"
+    alt="astro"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/html-5.svg"
+    alt="html-5"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/css-3.svg"
+    alt="css-3"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/tailwindcss.svg"
+    alt="tailwindcss"
+    heigth="30"
+    width="40"
+  />
+  <img
+    src="./assets/prettier.svg"
+    alt="prettier"
+    heigth="33"
+    width="30"
+  />
+  <img
+    src="./assets/eslint.svg"
+    alt="eslint"
+    heigth="33"
+    width="30"
+  />
+  <img
+    src="./assets/jest.svg"
+    alt="jest"
+    heigth="33"
+    width="30"
+  />
+  <img
+    src="./assets/mocha.svg"
+    alt="mocha"
+    heigth="33"
+    width="30"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="./assets/prisma.svg"
+    alt="prisma"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/typeorm.svg"
+    alt="typeorm"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/planetscale.svg"
+    alt="planetscale"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/supabase.svg"
+    alt="supabase"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/firebase.svg"
+    alt="firebase"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/sequelize.svg"
+    alt="sequelize"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/mysql.svg"
+    alt="mysql"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/couchdb.svg"
+    alt="couchdb"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/mariadb.svg"
+    alt="mariadb"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/postgresql.svg"
+    alt="postgresql"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/redis.svg"
+    alt="redis"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/mongodb.svg"
+    alt="mongodb"
+    heigth="30"
+    width="15"
+  />
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://instagram.com/b1duu" target="blank">
+    <img
+      src="./assets/instagram.svg"
+      alt="instagram"
+      heigth="30"
+      width="30"
+    />
+  </a>
+  <a href="https://facebook.com/lgdagostim" target="blank">
+    <img
+      src="./assets/facebook.svg"
+      alt="facebook"
+      heigth="30"
+      width="30"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/lg-dagostim/" target="blank">
+    <img
+      src="./assets/linkedin.svg"
+      alt="linkedin"
+      heigth="30"
+      width="30"
+    />
+  </a>
+  <a href="https://twitter.com/b1duu" target="blank">
+    <img
+      src="./assets/twitter.svg"
+      alt="twitter"
+      heigth="30"
+      width="30"
+    />
+  </a>
+  <a href="https://www.twitch.tv/b1duu" target="blank">
+    <img
+      src="./assets/twitch.svg"
+      alt="twitch"
+      heigth="30"
+      width="30"
+    />
+  </a>
+</p>
+
