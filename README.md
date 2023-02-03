@@ -114,6 +114,18 @@
     width="30"
   />
   <img
+    src="./assets/python.svg"
+    alt="python"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/swift.svg"
+    alt="swift"
+    heigth="30"
+    width="30"
+  />
+  <img
     src="./assets/nodejs.svg"
     alt="nodejs"
     heigth="30"
@@ -134,6 +146,18 @@
   <img
     src="./assets/electron.svg"
     alt="electron"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/ionic.svg"
+    alt="ionic"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/nativescript.svg"
+    alt="nativescript"
     heigth="30"
     width="30"
   />
@@ -168,6 +192,12 @@
     width="30"
   />
   <img
+    src="./assets/meteor.svg"
+    alt="meteor"
+    heigth="30"
+    width="30"
+  />
+  <img
     src="./assets/vue.svg"
     alt="vue"
     heigth="30"
@@ -198,6 +228,12 @@
     width="30"
   />
   <img
+    src="./assets/sass.svg"
+    alt="sass"
+    heigth="30"
+    width="30"
+  />
+  <img
     src="./assets/tailwindcss.svg"
     alt="tailwindcss"
     heigth="30"
@@ -206,25 +242,37 @@
   <img
     src="./assets/prettier.svg"
     alt="prettier"
-    heigth="33"
+    heigth="30"
     width="30"
   />
   <img
     src="./assets/eslint.svg"
     alt="eslint"
-    heigth="33"
+    heigth="30"
     width="30"
   />
   <img
     src="./assets/jest.svg"
     alt="jest"
-    heigth="33"
+    heigth="30"
     width="30"
   />
   <img
     src="./assets/mocha.svg"
     alt="mocha"
-    heigth="33"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/grunt.svg"
+    alt="grunt"
+    heigth="30"
+    width="30"
+  />
+  <img
+    src="./assets/gulp.svg"
+    alt="gulp"
+    heigth="30"
     width="30"
   />
 </p>
