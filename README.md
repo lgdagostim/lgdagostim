@@ -5,7 +5,7 @@
 
 ---
 
-### Techs 🛠️
+### Techs I've used/using 🛠️
 
 <p align="left">
   <img
