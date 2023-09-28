@@ -5,102 +5,13 @@
 
 ---
 
-### Techs I've used/using 🛠️
-
-<p align="left">
-  <img
-    src="./assets/visual-studio-code.svg"
-    alt="visual-studio-code"
-    heigth="30"
-    width="30"
-  />
+<p align="center">
   <img
     src="./assets/raspberry-pi.svg"
     alt="raspberry-pi"
     heigth="30"
     width="30"
   />
-  <img
-    src="./assets/bash.svg"
-    alt="bash"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/git.svg"
-    alt="git"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/figma.svg"
-    alt="figma"
-    heigth="30"
-    width="24"
-  />
-  <img
-    src="./assets/photoshop.svg"
-    alt="photoshop"
-    heigth="35"
-    width="35"
-  />
-  <img
-    src="./assets/insomnia.svg"
-    alt="insomnia"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/atlassian.svg"
-    alt="atlassian"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/github.svg"
-    alt="github"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/gitlab.svg"
-    alt="gitlab"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/docker.svg"
-    alt="docker"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/kubernetes.svg"
-    alt="kubernetes"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/aws.svg"
-    alt="aws"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/microsoft-azure.svg"
-    alt="microsoft-azure"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/google-cloud.svg"
-    alt="google-cloud"
-    heigth="30"
-    width="30"
-  />
-</p>
-
-<p align="left">
   <img
     src="./assets/javascript.svg"
     alt="javascript"
@@ -110,12 +21,6 @@
   <img
     src="./assets/typescript.svg"
     alt="typescript"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/python.svg"
-    alt="python"
     heigth="30"
     width="30"
   />
@@ -132,68 +37,14 @@
     width="30"
   />
   <img
-    src="./assets/deno.svg"
-    alt="deno"
-    heigth="30"
-    width="30"
-  />
-  <img
     src="./assets/serverless.svg"
     alt="serverless"
     heigth="30"
     width="30"
   />
   <img
-    src="./assets/electron.svg"
-    alt="electron"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/ionic.svg"
-    alt="ionic"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/nativescript.svg"
-    alt="nativescript"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/vitejs.svg"
-    alt="vitejs"
-    heigth="30"
-    width="30"
-  />
-  <img
     src="./assets/nestjs.svg"
     alt="nestjs"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/adonis.svg"
-    alt="adonis"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/fastify.svg"
-    alt="fastify"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/feathersjs.svg"
-    alt="feathersjs"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/meteor.svg"
-    alt="meteor"
     heigth="30"
     width="30"
   />
@@ -216,83 +67,14 @@
     width="30"
   />
   <img
-    src="./assets/html-5.svg"
-    alt="html-5"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/css-3.svg"
-    alt="css-3"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/sass.svg"
-    alt="sass"
-    heigth="30"
-    width="30"
-  />
-  <img
     src="./assets/tailwindcss.svg"
     alt="tailwindcss"
     heigth="30"
     width="40"
   />
   <img
-    src="./assets/prettier.svg"
-    alt="prettier"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/eslint.svg"
-    alt="eslint"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/jest.svg"
-    alt="jest"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/mocha.svg"
-    alt="mocha"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/grunt.svg"
-    alt="grunt"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/gulp.svg"
-    alt="gulp"
-    heigth="30"
-    width="30"
-  />
-</p>
-
-<p align="left">
-  <img
     src="./assets/prisma.svg"
     alt="prisma"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/typeorm.svg"
-    alt="typeorm"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/planetscale.svg"
-    alt="planetscale"
     heigth="30"
     width="30"
   />
@@ -303,44 +85,8 @@
     width="30"
   />
   <img
-    src="./assets/firebase.svg"
-    alt="firebase"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/sequelize.svg"
-    alt="sequelize"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/mysql.svg"
-    alt="mysql"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/couchdb.svg"
-    alt="couchdb"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/mariadb.svg"
-    alt="mariadb"
-    heigth="30"
-    width="30"
-  />
-  <img
     src="./assets/postgresql.svg"
     alt="postgresql"
-    heigth="30"
-    width="30"
-  />
-  <img
-    src="./assets/redis.svg"
-    alt="redis"
     heigth="30"
     width="30"
   />
